@@ -1,0 +1,22 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional: Uncomment if you don't want to commit large images
+# images/*.png
+# images/*.jpg
+# images/*.jpeg
+# !images/panorama_1.png
